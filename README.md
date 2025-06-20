@@ -15,7 +15,7 @@ git clone https://gitlab.com/QMAI/mlqe_2023_edx.git
 #### 1. Simulating experiments of Quantum Dot Classification 
 python TensoMeta_QD.py 
 
-#### 2. Simulating experiments of Max-Cut Maximization
+#### 2. Simulating experiments of Max-Cut Optimization
 python TensoMeta_QAOA.py
 
 #### 3. Simulating experiments of LiH Molecular Simulation
